@@ -8,8 +8,8 @@ class Client{
 
     //ToDo 外部ファイルからの参照にする
     function __construct($AccessToken,$channelSecret,$versions) {
-        $this->AccessToken = "とーくん";
-        $this->channelSecret = "しーくれっと";
+        $this->AccessToken = "7V/qX3Y43FkVnCU2d/h3GTGwn80Y3kQ1cZcDz3Ls5hKn31ftO7i+0ZHbPvcyOaVoDqM4RpkbHCaveOt36EOX1YSXZSTcCuUAXoKhKRPtTbhcMfiJfdoMVX8O97c/0+kzcooP5Fx6OnimQFWL/FRuygdB04t89/1O/w1cDnyilFU=";
+        $this->channelSecret = "a05e5b7c38447c1d51b1a2dafff8b787";
         $this->versions = "0.1";
     }
 
